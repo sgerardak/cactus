@@ -1,0 +1,28 @@
+h1{
+    color:green;
+}
+.image img{
+    position: absolute;
+    left: 10%;
+    top: 10%;
+    height: 80%;
+    width: 80%;
+
+}
+.image2 img{
+    position: absolute;
+    top: 45%;
+    left:45%;
+    height: 40%;
+    width: 40%
+}
+
+
+body{
+    background: linear-gradient(to bottom, rgb(255, 246, 219) , rgb(250, 210, 92) 100%);
+
+}
+
+
+
+

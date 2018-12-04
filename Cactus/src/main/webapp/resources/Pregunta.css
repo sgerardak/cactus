@@ -1,0 +1,124 @@
+
+body{
+  background: linear-gradient(to bottom, rgb(255, 246, 219) , rgb(250, 210, 92) 100%);
+
+}
+.header p{
+  display: inline;
+ 
+}
+
+.rectangle { 
+}
+ 
+.rectangle p{
+  position: absolute;
+  top: 10%;
+  left: 40%;
+  height: 25%;
+  width: 50%;
+  background-color:lightgrey;
+  border-style: ridge;
+  border-color: rgba(68, 128, 0, 0.829);
+  text-align: justify;
+  font-size: 2vw;
+  font-family: Arial, Helvetica, sans-serif;
+  color:black
+    
+}
+
+ul {
+  list-style-type: none;
+  
+}
+
+.l1 li{
+  position: absolute;
+  top: 45%;
+  left: 40%;
+  height: 5%;
+  width: 50%;
+  
+  font-size: 2vw;
+  margin-top: 20px;
+  font-family: 'COMIC SANS MS';
+  text-transform: capitalize; 
+  color: black;
+
+}
+
+.l2 li{
+  position: absolute;
+  top: 55%;
+  left: 40%;
+  height: 5%;
+  width: 50%;
+    font-size: 2vw;
+  margin-top: 20px; 
+  font-family: 'COMIC SANS MS';
+  text-transform: capitalize;
+}
+
+  .l3 li{
+    position: absolute;
+    top: 65%;
+    left: 40%;
+    height: 5%;
+    width: 50%;
+     font-size: 2vw;
+    margin-top: 20px; 
+    font-family: 'COMIC SANS MS';
+    text-transform: capitalize;
+  
+  }
+
+  /* If you want the content centered horizontally and vertically */
+
+  
+  /* Style the image inside the centered container, if needed */
+  .centered img {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    text-align: center;
+    height: 80%;
+    width: 20%;
+    
+  }
+
+.recuadroInfe p{
+  position: absolute;
+  top: 92%;
+  left: 10%;
+  height: 7%;
+  width: 70%;
+  background-color:lightgrey;
+  border-style: ridge;
+  border-color: rgba(68, 128, 0, 0.829);
+  text-align: justify;
+  font-size: 1vw;
+  font-family: Arial, Helvetica, sans-serif;
+  color:black
+    
+}
+
+
+
+
+.image img{
+    position: absolute;
+    left: 10%;
+    top: 10%;
+    height: 80%;
+    width: 80%;
+
+}
+.image2 img{
+    position: absolute;
+    top: 45%;
+    left:45%;
+    height: 40%;
+    width: 40%
+}
+
+
